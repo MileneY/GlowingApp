@@ -28,8 +28,7 @@ o Se muestran los productos y su información
 
 · Nuestra historia
 
-· Contador regresivo de oferta
-
-· PLUS: Buscador de productos
+· PLUS: PAGINA DE PAGO
 
 4. Diagrama de arquitectura del sitio
+<img width="241" height="303" alt="image" src="https://github.com/user-attachments/assets/01583ab9-0245-432d-8b62-e88faa292b70" />
