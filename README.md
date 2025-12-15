@@ -29,4 +29,5 @@ o Se muestran los productos y su información
 · PLUS: PAGINA DE RESEÑAS
 
 4. Diagrama de arquitectura del sitio
-<img width="241" height="303" alt="image" src="https://github.com/user-attachments/assets/01583ab9-0245-432d-8b62-e88faa292b70" />
+<img width="1024" height="1536" alt="ChatGPT Image 15 dic 2025, 09_49_54 a m" src="https://github.com/user-attachments/assets/87851a62-70a6-41e0-9ffc-31a71693667a" />
+
